@@ -1172,6 +1172,14 @@ Notable Channels: `#support`, `#ide-development`, `#newocr-development`, `#share
 Language: English \
 <br>
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="<static url of the image>"/>
+
+[__neverinstall__](https://discord.gg/Q33Za9Zk) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://neverinstall.com) 
+\
+Notable Channels: `#most-important-channel-1`, `#most-important-channel-2`, `#most-important-channel-3`, `#most-important-channel-4`, `#most-important-channel-5`, `#least-important-channel` \
+Language: English, Deutsch, 日本語
+<br>
+
 <img align="left" height="94px" width="94px" alt="Server Icon" src="images/server_icons/ohmyzsh.webp">
 
 [__ohmyzsh__](https://discord.com/invite/ohmyzsh) [<img height="16px" width="16px" alt="Official Badge" src="images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="images/badges/homepage.webp">](https://ohmyz.sh/) [<img height="16px" width="16px" alt="Git Repository" src="images/badges/git.webp">](https://github.com/ohmyzsh) \
